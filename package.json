@@ -1,0 +1,28 @@
+{
+  "name": "booksapi",
+  "version": "1.0.0",
+  "description": "TuringTech - Backend Engineer Test - BooksAPI - Aamir Khan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Aamir-K11/backend-hiring-test-3.git"
+  },
+  "keywords": [
+    "books",
+    "test"
+  ],
+  "author": "Aamir Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aamir-K11/backend-hiring-test-3/issues"
+  },
+  "homepage": "https://github.com/Aamir-K11/backend-hiring-test-3#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.1",
+    "mongoose": "^6.0.5"
+  }
+}
